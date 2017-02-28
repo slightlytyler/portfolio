@@ -1,0 +1,27 @@
+{
+  "name": "@slightlytyler/portfolio",
+  "version": "0.0.0",
+  "description": "My portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/slightlytyler/slightlytyler.github.io.git"
+  },
+  "keywords": [
+    "slightlytyler",
+    "react",
+    "redux",
+    "ui",
+    "engineering",
+    "design"
+  ],
+  "author": "Tyler <slightlytyler>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/slightlytyler/slightlytyler.github.io/issues"
+  },
+  "homepage": "https://github.com/slightlytyler/slightlytyler.github.io#readme"
+}
